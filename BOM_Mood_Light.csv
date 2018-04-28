@@ -1,6 +1,6 @@
 Designator/Reference;Values;Housing;Classification;Part Number;Comment
 U1;;;ESP-8266 based module;WEMOS D1 mini;
-C1;1nF – 100 nF, min. 10V;THT, pitch 2,5mm, foil/disk;Capacitor;;
+C1;1nF to 100 nF, min. 10V;THT, pitch 2,5mm, foil/disk;Capacitor;;
 R19;None;None;None;None;Contact Area for Analog-Input
 C2, C3;100µF, 10V;THT, axial, length 10,5mm, diameter 6mm;;;
 D10;If=200mA, Vf=650mV;THT, DO-35 (diameter of pins <0.6mm);Schottky Diode;BAT42, BAT86 or simular;
