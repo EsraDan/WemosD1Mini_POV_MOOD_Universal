@@ -1,0 +1,16 @@
+Qty,Designator,Values,Package,Classification,AVL1,AVL1 P/N,Comment
+1,U1,None,THT-Module,ESP-8266 based module,WEMOS ,D1 mini,
+1,C1,"1nF – 100 nF, min. 10V","THT, pitch 2,5mm, foil/disk",Capacitor,any/open,None,
+0,R19,None,None,None,None,None,Contact Area for Analog-Input
+2,"C2, C3","100µF, 10V","THT, axial, length 10,5mm, diameter 6mm",Capacitor,any/open,None,
+1,D10,"BAT42 or  BAT85, If=200mA, Vf=650mV","THT, DO-35 (diameter of pins <0.6mm)",Schottky Diode,any/open,None,
+1,SW1A,">10V, >0,5A,  1P2T 3Pin","THT, pitch 2,5mm, diameter of Pins 0,5mm",Micro Slide Switch,any/open,None,
+1,P1,2pin ,"THT, pitch 2,54mm",header or cable,any/open,None,
+1,P4,2pin ,"THT, pitch 2,54mm",male header,any/open,None,
+1,P5,3pin ,"THT, pitch 2,54mm",male header,any/open,None,
+2,"P2, P3",8pin,"THT, pitch 2,54mm",female header,any/open,None,
+5,"R1,R2,R5,R6,R7","120ohm, ¼ watts",THT,Resistor,any/open,None,Value fits most low current-LEDs
+5,"D1,D2,D5,D6,D7",2mA,"LED Housing, diameter 3mm",LED,any/open,None,Must be a low current LED
+5,"R9,R10,R13,R14,R14","100ohm, 1/8 watts","SMD, 0805",Resistor,any/open,None,Assemble THT OR SMD Resistors and LEDs!
+5,"D19,D11,D14,D5,D16",2mA,"SMD, 1206",LED,any/open,None,Assemble THT OR SMD Resistors and LEDs!
+1,,,3x AAA(Mignon),Battery Pack,any/open,None,
